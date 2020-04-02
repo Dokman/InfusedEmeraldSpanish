@@ -951,16 +951,16 @@ LittlerootTown_EventScript_GiveRunningShoes:: @ 81E8693
 	return
 
 LittlerootTown_Text_OurNewHomeLetsGoInside: @ 81E86BC
-	.string "Mom: {PLAYER}, we're here, honey!\p"
-	.string "It must be tiring riding with our things\n"
-	.string "in the moving truck.\p"
-	.string "Well, this is Littleroot Town.\p"
-	.string "How do you like it?\n"
-	.string "This is our new home!\p"
-	.string "It has a quaint feel, but it seems to be\n"
-	.string "an easy place to live, don't you think?\p"
-	.string "And, you get your own room, {PLAYER}!\n"
-	.string "Let's go inside.$"
+	.string "Mamá: ¡{PLAYER}, ya hemos llegado, cielo!\p"
+	.string "Debe de ser agotador viajar en el camión\n"
+	.string "de la mudanza con todos los muebles...\p"
+	.string "Bueno, esto es VILLA RAÍZ.\p"
+	.string "¿Qué? ¿Te gusta?\n"
+	.string "¡Aquí es donde vamos a vivir!\p"
+	.string "Es un lugar pintoresco, pero creo que\n"
+	.string "se puede vivir muy a gusto aquí, ¿eh?\p"
+	.string "¡Y además tienes tu propio cuarto!\n"
+	.string "¡Entremos en casa!$"
 
 LittlerootTown_Text_WaitPlayer: @ 81E87E1
 	.string "Mom: Wait, {PLAYER}!$"

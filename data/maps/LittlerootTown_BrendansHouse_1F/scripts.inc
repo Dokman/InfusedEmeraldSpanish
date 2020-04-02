@@ -296,18 +296,18 @@ LittlerootTown_BrendansHouse_1F_Movement_BrendanGoUpstairs2: @ 81F7A16
 	step_end
 
 PlayersHouse_1F_Text_IsntItNiceInHere: @ 81F7A1C
-	.string "Mom: See, {PLAYER}?\n"
-	.string "Isn't it nice in here, too?$"
+	.string "Mamá: ¿Ves, {PLAYER}?\n"
+	.string "¿A que esto es muy bonito?$"
 
 PlayersHouse_1F_Text_MoversPokemonGoSetClock: @ 81F7A46
-	.string "The mover's Pokémon do all the work\n"
-	.string "of moving us in and cleaning up after.\l"
-	.string "This is so convenient!\p"
-	.string "{PLAYER}, your room is upstairs.\n"
-	.string "Go check it out, dear!\p"
-	.string "Dad bought you a new clock to mark\n"
-	.string "our move here.\l"
-	.string "Don't forget to set it!$"
+	.string "Los POKéMON del servicio de mudanzas\n"
+	.string "hacen todo el trabajo duro y además.\l"
+	.string "recogen lo que ensucian. ¡Es perfecto!\p"
+	.string "{PLAYER}, tu cuarto está arriba.\n"
+	.string "¡Ve a verlo, cariño!\p"
+	.string "PAPÁ te ha comprado un nuevo\n"
+	.string "reloj para que recuerdes este día.\l"
+	.string "No olvides ponerlo en hora.$"
 
 PlayersHouse_1F_Text_ArentYouInterestedInRoom: @ 81F7B24
 	.string "Mom: Well, {PLAYER}?\p"
@@ -319,17 +319,17 @@ PlayersHouse_1F_Text_GoSetTheClock: @ 81F7B67
 	.string "Go set the clock in your room, honey.$"
 
 PlayersHouse_1F_Text_OhComeQuickly: @ 81F7B96
-	.string "Mom: Oh! {PLAYER}, {PLAYER}!\n"
-	.string "Quick! Come quickly!$"
+	.string "Mamá: ¡{PLAYER}, {PLAYER}!\n"
+	.string "¡Ven! ¡Ven rápido!$"
 
 PlayersHouse_1F_Text_MaybeDadWillBeOn: @ 81F7BBC
-	.string "Mom: Look! It's Petalburg Gym!\n"
-	.string "Maybe Dad will be on!$"
+	.string "Mamá: ¡Mira! ¡El GIMNASIO de PETALIA!\n"
+	.string "¡A ver si sale tu padre!$"
 
 PlayersHouse_1F_Text_ItsOverWeMissedHim: @ 81F7BF1
-	.string "Mom: Oh… It's over.\p"
-	.string "I think Dad was on, but we missed him.\n"
-	.string "Too bad.$"
+	.string "MAMÁ: Pues no... Qué lástima...\p"
+	.string "Creo que estaba hace nada y se\n"
+	.string "acaba de ir. Mala suerte.$"
 
 PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor: @ 81F7C35
 	.string "Oh, yes.\n"
