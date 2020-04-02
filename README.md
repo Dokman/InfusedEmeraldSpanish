@@ -1,4 +1,4 @@
-# Pokémon Infused Emerald
+# Pokémon Infused Emerald Spanish
 
 Based on the [pokeemerald](https://github.com/pret/pokeemerald) disassembly project and inspired by Pokémon Theta Emerald, this project's objective is to improve Pokémon Emerald's experience with features from later generations, including quality of life additions, mechanics and content.
 
