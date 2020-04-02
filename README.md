@@ -17,6 +17,7 @@ Based on the [pokeemerald](https://github.com/pret/pokeemerald) disassembly proj
 ## Features:
 + Running Shoes everywhere and from the beginning. Changed Mom's dialog to reflect this.
 + Reusable TMs.
++ Day / Night Cycle
 
 ## Other resources:
 * Link Cable sprite by [KryptonLion](https://www.deviantart.com/kryptonlion).
