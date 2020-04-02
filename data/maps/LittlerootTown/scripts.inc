@@ -963,76 +963,74 @@ LittlerootTown_Text_OurNewHomeLetsGoInside: @ 81E86BC
 	.string "¡Entremos en casa!$"
 
 LittlerootTown_Text_WaitPlayer: @ 81E87E1
-	.string "Mom: Wait, {PLAYER}!$"
+	.string "Mamá: ¡Espera, {PLAYER}!$"
 
 LittlerootTown_Text_WearTheseRunningShoes: @ 81E87F0
-	.string "Mom: {PLAYER}! {PLAYER}! Did you\n"
-	.string "introduce yourself to Prof. Birch?\p"
-	.string "Oh! What an adorable Pokémon!\n"
-	.string "You got it from Prof. Birch. How nice!\p"
-	.string "You're your father's child, all right.\n"
-	.string "You look good together with Pokémon!$"
+	.string "Mamá: ¡{PLAYER}, {PLAYER}! ¿Ya te has\n"
+	.string "presentado al PROF. ABEDUL?\p"
+	.string "Ooooh... ¡Qué POKéMON tan bonito!\n"
+	.string "¿Te lo ha dado el PROFESOR? ¡Qué majo!\p"
+	.string "Se ve que has salido a tu padre.\n"
+	.string "¡Tienes mano con los POKéMON!\p"
+	.string "Muy bie, tesoro. Si vas a irte de\n"
+	.string "aventuras, toma estas DEPORTIVAS.\p"
+	.string "¡Con ellas, más que correr, volarás!$"
 
 LittlerootTown_Text_ComeHomeIfAnythingHappens: @ 81E8A03
-	.string "… … … … … … … …\n"
-	.string "… … … … … … … …\p"
-	.string "To think that you have your very own\n"
-	.string "Pokémon now…\l"
-	.string "Your father will be overjoyed.\p"
-	.string "…But please be careful.\n"
-	.string "If anything happens, you can come home.\p"
-	.string "Go on, go get them, honey!$"
+	.string "Ay...\n"
+	.string "Cómo pasa el tiempo...\p"
+	.string "Pensar que ya tienes tu propio\n"
+	.string "POKéMON... Que contento\l"
+	.string "se va a poner tu padre...\p"
+	.string "Pero ten cuidado, ¿vale?\n"
+	.string "Y pasa por casa cuando quieras.\p"
+	.string "¡Adelante, cariño! ¡Atrápalos todos!$"
 
 LittlerootTown_Text_CanUsePCToStoreItems: @ 81E8ACF
-	.string "If you use a PC, you can store items\n"
-	.string "and Pokémon.\p"
-	.string "The power of science is staggering!$"
+	.string "¿Sabes que puedes guardar objetos\n"
+	.string "y POKéMON en un PC?.\p"
+	.string "¡La ciencia avanza que es una\n"
+	.string "barbaridad!$"
 
 LittlerootTown_Text_BirchSpendsDaysInLab: @ 81E8B25
-	.string "Prof. Birch spends days in his Lab\n"
-	.string "studying, then he'll suddenly go out in\l"
-	.string "the wild to do more research…\p"
-	.string "When does Prof. Birch spend time\n"
-	.string "at home?$"
+	.string "El PROF. ABEDUL se pasa los días metido\n"
+	.string "en el LABORATORIO, pero a veces sale\l"
+	.string "a investigar sobre el terrno.\p"
+	.string "¿Cuándo se va a su casa, digo yo?...$"
 
 LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut: @ 81E8BB8
-	.string "Um, um, um!\p"
-	.string "If you go outside and go in the grass,\n"
-	.string "wild Pokémon will jump out!$"
+	.string "Si te metes en las zonas de hierba alta,\n"
+	.string "encontrarás POKéMON salvajes.$"
 
 LittlerootTown_Text_DangerousIfYouDontHavePokemon: @ 81E8C07
-	.string "It's dangerous if you don't have\n"
-	.string "your own Pokémon.$"
+	.string "No es seguro salir por ahí si no\n"
+	.string "vas con algún POKéMON.$"
 
 LittlerootTown_Text_CanYouGoSeeWhatsHappening: @ 81E8C3A
-	.string "Um, hi!\p"
-	.string "There are scary Pokémon outside!\n"
-	.string "I can hear their cries!\p"
-	.string "I want to go see what's going on,\n"
-	.string "but I don't have any Pokémon…\p"
-	.string "Can you go see what's happening\n"
-	.string "for me?$"
+	.string "Alguien está gritando por ahí.\p"
+	.string "¿Qué hago? ¿Qué hacemos?\n"
+	.string "¡Alguien tiene que ayudarle!$"
 
 LittlerootTown_Text_YouSavedBirch: @ 81E8CE3
-	.string "You saved Prof. Birch!\n"
-	.string "I'm so glad!$"
+	.string "Uf, qué contento estoy de que fueras\n"
+	.string "a rescatar al PROFESOR...$"
 
 LittlerootTown_Text_GoodLuckCatchingPokemon: @ 81E8D07
-	.string "Are you going to catch Pokémon?\n"
-	.string "Good luck!$"
+	.string "¿Vas a atrapar POKéMON?\n"
+	.string "¡Buena suerte!$"
 
 LittlerootTown_Text_TownSign: @ 81E8D32
-	.string "Littleroot Town\n"
-	.string "“A town that can't be shaded any hue.”$"
+	.string "VILLA RAÍZ\n"
+	.string "“Un pueblo poco colorido”.$"
 
 LittlerootTown_Text_ProfBirchsLab: @ 81E8D69
-	.string "Prof. Birch's Pokémon Lab$"
+	.string "LABORATORIO POKéMON del PROF. ABEDUL$"
 
 LittlerootTown_Text_PlayersHouse: @ 81E8D83
-	.string "{PLAYER}'s House$"
+	.string "CASA de {PLAYER}$"
 
 LittlerootTown_Text_ProfBirchsHouse: @ 81E8D8E
-	.string "Prof. Birch's House$"
+	.string "CASA del PROF. ABEDUL$"
 
 LittlerootTown_Text_BirchSomethingToShowYouAtLab: @ 81E8DA2
 	.string "Prof. Birch: Well, well, {PLAYER}{KUN}!\n"

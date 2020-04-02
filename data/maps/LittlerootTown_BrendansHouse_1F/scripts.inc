@@ -332,18 +332,18 @@ PlayersHouse_1F_Text_ItsOverWeMissedHim: @ 81F7BF1
 	.string "acaba de ir. Mala suerte.$"
 
 PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor: @ 81F7C35
-	.string "Oh, yes.\n"
-	.string "One of Dad's friends lives in town.\p"
-	.string "Prof. Birch is his name.\p"
-	.string "He lives right next door, so you should\n"
-	.string "go over and introduce yourself.$"
+	.string "Ah, si, una cosa.\n"
+	.string "Uno de los amigos de tu padre vive aquí.\p"
+	.string "Se llama PROF. ABEDUL.\p"
+	.string "Vive aquí al lado. Creo que deberías ir\n"
+	.string "a verlo y presentarte, cariño.$"
 
 PlayersHouse_1F_Text_SeeYouHoney: @ 81F7CC3
-	.string "Mom: See you, honey!$"
+	.string "MAMÁ: ¡Hasta luego, cielo!$"
 
 PlayersHouse_1F_Text_DidYouMeetProfBirch: @ 81F7CD8
-	.string "Mom: Did you introduce yourself to\n"
-	.string "Prof. Birch?$"
+	.string "MAMÁ: ¿Has ido a presentarte\n"
+	.string "al PROF. ABEDUL?$"
 
 PlayersHouse_1F_Text_YouShouldRestABit: @ 81F7D08
 	.string "Mom: How are you doing, {PLAYER}?\n"
@@ -380,14 +380,14 @@ PlayersHouse_1F_Text_Vigoroth2: @ 81F7EB3
 	.string "Huggoh, uggo uggo…$"
 
 PlayersHouse_1F_Text_ReportFromPetalburgGym: @ 81F7EC6
-	.string "Interviewer: …We brought you this\n"
-	.string "report from in front of Petalburg Gym.$"
+	.string "Entrevistador: Y, desde el GIMNASIO de\n"
+	.string "PETALIA, nos despedimos de todos.$"
 
 PlayersHouse_1F_Text_TheresAMovieOnTV: @ 81F7F0F
-	.string "There is a movie on TV.\p"
-	.string "Two men are dancing on a big piano\n"
-	.string "keyboard.\p"
-	.string "Better get going!$"
+	.string "Hay una peli en la tele.\p"
+	.string "Dos hombres están bailando sobre el\n"
+	.string "teclado de un piano de cola.\p"
+	.string "Bueno, mejor dejo de ver la tele.$"
 
 PlayersHouse_1F_Text_RunningShoesManual: @ 81F7F66
 	.string "It's the instruction booklet for the\n"
